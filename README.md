@@ -46,23 +46,23 @@ Copy the skill folder to your Claude skills directory.
 
 | Skill | Category | Description |
 |-------|----------|-------------|
-| [financial-metrics-master](financial-metrics-master/) | **Master** | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis |
-| [income-statement](income-statement/) | Financial Statements | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
-| [balance-sheet](balance-sheet/) | Financial Statements | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
-| [cash-flow-statement](cash-flow-statement/) | Financial Statements | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
-| [financial-metrics-analysis](financial-metrics-analysis/) | Growth Analysis | Analyze year-over-year growth in income statement items (Revenue, COGS, Gross Profit, Operating Income, Net Income) |
-| [income-statement-growth](income-statement-growth/) | Growth Analysis | Retrieve YoY growth in Revenue, Gross Profit, Operating Income, Net Income, and EPS Diluted |
-| [balance-sheet-growth](balance-sheet-growth/) | Growth Analysis | Retrieve YoY growth in Total Assets, Liabilities, Equity, Cash, and Inventories |
-| [cash-flow-growth](cash-flow-growth/) | Growth Analysis | Retrieve YoY growth in Operating Cash Flow, Free Cash Flow, and Net Cash Flow |
-| [financial-growth](financial-growth/) | Growth Analysis | Retrieve comprehensive YoY growth in Revenue, Gross Profit, Operating Income, Net Income, EPS, and FCF |
-| [revenue-product-segmentation](revenue-product-segmentation/) | Segmentation | Retrieve revenue breakdown by product segment with concentration analysis |
-| [revenue-geographic-segmentation](revenue-geographic-segmentation/) | Segmentation | Retrieve revenue breakdown by geographic segment with regional exposure |
-| [analyst-estimates](analyst-estimates/) | Estimates & Ratings | Retrieve analyst Revenue and EPS estimates with consensus ranges |
-| [financial-health-scores](financial-health-scores/) | Estimates & Ratings | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
-| [historical-financial-ratings](historical-financial-ratings/) | Estimates & Ratings | Retrieve historical financial ratings and key metric scores (ROA, ROE, DCF, D/E) over time |
-| [ratings-snapshot](ratings-snapshot/) | Estimates & Ratings | Retrieve current financial ratings overview for quick assessment |
-| [esg-ratings](esg-ratings/) | ESG | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
-| [esg-benchmark-comparison](esg-benchmark-comparison/) | ESG | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
+| [financial-metrics-master](skills/financial-metrics-master/) | **Master** | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis |
+| [income-statement](skills/income-statement/) | Financial Statements | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
+| [balance-sheet](skills/balance-sheet/) | Financial Statements | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
+| [cash-flow-statement](skills/cash-flow-statement/) | Financial Statements | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
+| [financial-metrics-analysis](skills/financial-metrics-analysis/) | Growth Analysis | Analyze year-over-year growth in income statement items (Revenue, COGS, Gross Profit, Operating Income, Net Income) |
+| [income-statement-growth](skills/income-statement-growth/) | Growth Analysis | Retrieve YoY growth in Revenue, Gross Profit, Operating Income, Net Income, and EPS Diluted |
+| [balance-sheet-growth](skills/balance-sheet-growth/) | Growth Analysis | Retrieve YoY growth in Total Assets, Liabilities, Equity, Cash, and Inventories |
+| [cash-flow-growth](skills/cash-flow-growth/) | Growth Analysis | Retrieve YoY growth in Operating Cash Flow, Free Cash Flow, and Net Cash Flow |
+| [financial-growth](skills/financial-growth/) | Growth Analysis | Retrieve comprehensive YoY growth in Revenue, Gross Profit, Operating Income, Net Income, EPS, and FCF |
+| [revenue-product-segmentation](skills/revenue-product-segmentation/) | Segmentation | Retrieve revenue breakdown by product segment with concentration analysis |
+| [revenue-geographic-segmentation](skills/revenue-geographic-segmentation/) | Segmentation | Retrieve revenue breakdown by geographic segment with regional exposure |
+| [analyst-estimates](skills/analyst-estimates/) | Estimates & Ratings | Retrieve analyst Revenue and EPS estimates with consensus ranges |
+| [financial-health-scores](skills/financial-health-scores/) | Estimates & Ratings | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
+| [historical-financial-ratings](skills/historical-financial-ratings/) | Estimates & Ratings | Retrieve historical financial ratings and key metric scores (ROA, ROE, DCF, D/E) over time |
+| [ratings-snapshot](skills/ratings-snapshot/) | Estimates & Ratings | Retrieve current financial ratings overview for quick assessment |
+| [esg-ratings](skills/esg-ratings/) | ESG | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
+| [esg-benchmark-comparison](skills/esg-benchmark-comparison/) | ESG | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
 
 ## Get Your Octagon API Key
 

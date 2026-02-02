@@ -11,6 +11,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 | [balance-sheet-growth](balance-sheet-growth/) | Retrieve YoY growth in Total Assets, Liabilities, Equity, Cash, and Inventories |
 | [cash-flow-growth](cash-flow-growth/) | Retrieve YoY growth in Operating Cash Flow, Free Cash Flow, and Net Cash Flow |
 | [financial-growth](financial-growth/) | Retrieve comprehensive YoY growth in Revenue, Gross Profit, Operating Income, Net Income, EPS, and FCF |
+| [income-statement](income-statement/) | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
 
 ## Prerequisites
 

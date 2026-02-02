@@ -1,0 +1,8 @@
+{
+  "name": "income-statement",
+  "description": "Retrieve real-time income statement data including Revenue, Net Income, and EPS Diluted for public companies across fiscal years or quarters.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "income-statement", "revenue", "net-income", "eps", "financial-statements", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

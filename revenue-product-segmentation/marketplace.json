@@ -1,0 +1,8 @@
+{
+  "name": "revenue-product-segmentation",
+  "description": "Retrieve detailed revenue breakdown by product segment for public companies, including segment share and concentration analysis.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "revenue-segmentation", "product-mix", "segment-analysis", "business-segments", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -20,6 +20,7 @@ A collection of AI agent skills for financial data analysis powered by the [Octa
 | [financial-health-scores](financial-health-scores/) | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
 | [historical-financial-ratings](historical-financial-ratings/) | Retrieve historical financial ratings and key metric scores (ROA, ROE, DCF, D/E) over time |
 | [esg-ratings](esg-ratings/) | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
+| [esg-benchmark-comparison](esg-benchmark-comparison/) | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
 
 ## Get Your Octagon API Key
 

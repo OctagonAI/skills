@@ -1,0 +1,8 @@
+{
+  "name": "esg-benchmark-comparison",
+  "description": "Retrieve ESG benchmark comparison metrics by sector using Octagon MCP. Compare ESG performance across industries using MSCI, S&P Global, CDP, and other frameworks.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "esg", "benchmarks", "sector-analysis", "sustainability", "msci", "cdp", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

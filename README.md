@@ -42,7 +42,7 @@ Copy the skill folder to your Claude skills directory.
 
 </details>
 
-## Financial Metrics Skills
+## Financial Metrics Analysis Skills
 
 | Skill | Category | Description |
 |-------|----------|-------------|

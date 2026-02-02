@@ -65,6 +65,7 @@ Copy the skill folder to your Claude skills directory.
 | [esg-benchmark-comparison](skills/esg-benchmark-comparison/) | ESG | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
 | [sec-10k-analysis](skills/sec-10k-analysis/) | SEC Filing Analysis | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
 | [sec-10q-analysis](skills/sec-10q-analysis/) | SEC Filing Analysis | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
+| [sec-risk-factors](skills/sec-risk-factors/) | SEC Filing Analysis | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
 
 ## Get Your Octagon API Key
 

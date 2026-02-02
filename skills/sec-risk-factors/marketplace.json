@@ -1,0 +1,8 @@
+{
+  "name": "sec-risk-factors",
+  "description": "Extract and summarize risk factors from SEC filings using Octagon MCP. Analyze Item 1A disclosures, categorize business risks, and compare risk profiles across companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "risk-factors", "risk-analysis", "10k", "compliance", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -21,13 +21,13 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 
 ## Prerequisites
 
-- [Octagon API Key](https://octagonagents.com) (free)
+- [Octagon API Key](https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys) (free)
 - Node.js with npx
 - Cursor IDE with MCP support
 
 ## Quick Setup
 
-1. Get your API key from https://octagonagents.com
+1. Get your API key from https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys
 2. In Cursor: Settings > Features > MCP Servers > Add New
 3. Configure:
    - **Name:** `octagon-mcp`

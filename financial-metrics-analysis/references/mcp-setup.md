@@ -21,7 +21,7 @@ npx -v
 
 ## Get Octagon API Key
 
-1. Sign up at https://octagonagents.com
+1. Sign up at https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys
 2. Navigate to **API Keys** in the left menu
 3. Generate a new API key
 4. Save the key securely

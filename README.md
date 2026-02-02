@@ -75,6 +75,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-8k-analysis](skills/sec-8k-analysis/) | Analyze 8-K filings to extract material events and corporate changes |
 | [sec-proxy-analysis](skills/sec-proxy-analysis/) | Extract executive compensation and governance info from proxy statements |
 | [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | Extract business descriptions and competitive landscape from 10-K filings |
+| [sec-footnotes-analysis](skills/sec-footnotes-analysis/) | Analyze footnotes and accounting policies from 10-K and 10-Q filings |
 
 ## Get Your Octagon API Key
 

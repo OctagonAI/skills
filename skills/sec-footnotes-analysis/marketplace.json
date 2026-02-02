@@ -1,0 +1,8 @@
+{
+  "name": "sec-footnotes-analysis",
+  "description": "Analyze footnotes and accounting policies from SEC filings using Octagon MCP. Research revenue recognition, critical estimates, lease obligations, and accounting pronouncements.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "footnotes", "accounting-policies", "gaap", "10k", "10q", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

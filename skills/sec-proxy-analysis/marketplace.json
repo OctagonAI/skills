@@ -1,0 +1,8 @@
+{
+  "name": "sec-proxy-analysis",
+  "description": "Analyze proxy statements (DEF 14A) to extract executive compensation, governance information, and shareholder voting matters using Octagon MCP.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "proxy", "def14a", "executive-compensation", "governance", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

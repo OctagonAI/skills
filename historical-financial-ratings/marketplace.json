@@ -1,0 +1,8 @@
+{
+  "name": "historical-financial-ratings",
+  "description": "Retrieve historical financial ratings and key metric scores over time using Octagon MCP. Analyze overall scores, ROA, ROE, DCF, and debt-to-equity ratings for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "financial-ratings", "financial-health", "equity-research", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

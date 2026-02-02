@@ -2,7 +2,23 @@
 
 A collection of AI agent skills for financial data analysis powered by the [Octagon MCP](https://github.com/OctagonAI/octagon-mcp).
 
-## Available Skills
+## Master Skill
+
+| Skill | Description |
+|-------|-------------|
+| [financial-metrics-analysis-master](financial-metrics-analysis-master/) | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis and investment recommendations |
+
+## Individual Skills
+
+### Financial Statements
+
+| Skill | Description |
+|-------|-------------|
+| [income-statement](income-statement/) | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
+| [balance-sheet](balance-sheet/) | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
+| [cash-flow-statement](cash-flow-statement/) | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
+
+### Growth Analysis
 
 | Skill | Description |
 |-------|-------------|
@@ -11,14 +27,27 @@ A collection of AI agent skills for financial data analysis powered by the [Octa
 | [balance-sheet-growth](balance-sheet-growth/) | Retrieve YoY growth in Total Assets, Liabilities, Equity, Cash, and Inventories |
 | [cash-flow-growth](cash-flow-growth/) | Retrieve YoY growth in Operating Cash Flow, Free Cash Flow, and Net Cash Flow |
 | [financial-growth](financial-growth/) | Retrieve comprehensive YoY growth in Revenue, Gross Profit, Operating Income, Net Income, EPS, and FCF |
-| [income-statement](income-statement/) | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
-| [balance-sheet](balance-sheet/) | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
-| [cash-flow-statement](cash-flow-statement/) | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
+
+### Revenue Segmentation
+
+| Skill | Description |
+|-------|-------------|
 | [revenue-product-segmentation](revenue-product-segmentation/) | Retrieve revenue breakdown by product segment with concentration analysis |
 | [revenue-geographic-segmentation](revenue-geographic-segmentation/) | Retrieve revenue breakdown by geographic segment with regional exposure |
+
+### Estimates & Ratings
+
+| Skill | Description |
+|-------|-------------|
 | [analyst-estimates](analyst-estimates/) | Retrieve analyst Revenue and EPS estimates with consensus ranges |
 | [financial-health-scores](financial-health-scores/) | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
 | [historical-financial-ratings](historical-financial-ratings/) | Retrieve historical financial ratings and key metric scores (ROA, ROE, DCF, D/E) over time |
+| [ratings-snapshot](ratings-snapshot/) | Retrieve current financial ratings overview for quick assessment |
+
+### ESG
+
+| Skill | Description |
+|-------|-------------|
 | [esg-ratings](esg-ratings/) | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
 | [esg-benchmark-comparison](esg-benchmark-comparison/) | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
 

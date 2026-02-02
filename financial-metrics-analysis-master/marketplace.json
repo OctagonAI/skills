@@ -1,0 +1,8 @@
+{
+  "name": "financial-metrics-analysis-master",
+  "description": "Comprehensive equity research analyst skill that orchestrates all Octagon financial analysis skills for full company analysis, initiation of coverage reports, and investment recommendations.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "equity-research", "financial-analysis", "investment-research", "due-diligence", "mcp", "master-skill"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

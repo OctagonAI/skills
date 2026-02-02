@@ -27,7 +27,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 
 ## Quick Setup
 
-1. Get your API key from https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys
+1. Get your [API key](https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys)
 2. In Cursor: Settings > Features > MCP Servers > Add New
 3. Configure:
    - **Name:** `octagon-mcp`

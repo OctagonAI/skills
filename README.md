@@ -2,7 +2,7 @@
 
 A collection of AI agent skills for financial data analysis powered by the [Octagon MCP](https://github.com/OctagonAI/octagon-mcp).
 
-## Available Skills
+## Financial Metrics Skills
 
 | Skill | Category | Description |
 |-------|----------|-------------|

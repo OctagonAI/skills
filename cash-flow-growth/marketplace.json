@@ -1,0 +1,8 @@
+{
+  "name": "cash-flow-growth",
+  "description": "Retrieve year-over-year growth in cash flow metrics including Operating Cash Flow, Free Cash Flow, and Net Cash Flow for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "cash-flow", "yoy-growth", "free-cash-flow", "operating-cash-flow", "financial-analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

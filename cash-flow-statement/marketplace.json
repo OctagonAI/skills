@@ -1,0 +1,8 @@
+{
+  "name": "cash-flow-statement",
+  "description": "Retrieve real-time or historical cash flow statement data including Net Income, Operating Cash Flow, Investing Cash Flow, Financing Cash Flow, Free Cash Flow, and Cash Position for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "cash-flow-statement", "operating-cash-flow", "free-cash-flow", "capex", "financial-statements", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sec-8k-analysis",
+  "description": "Analyze 8-K filings to extract material events and corporate changes using Octagon MCP. Track M&A announcements, leadership changes, earnings releases, and material disclosures.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "8k", "material-events", "corporate-changes", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

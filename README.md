@@ -67,6 +67,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-10q-analysis](skills/sec-10q-analysis/) | SEC Filing Analysis | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
 | [sec-risk-factors](skills/sec-risk-factors/) | SEC Filing Analysis | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
 | [sec-mda-analysis](skills/sec-mda-analysis/) | SEC Filing Analysis | Analyze Management Discussion and Analysis sections for strategic insights |
+| [sec-8k-analysis](skills/sec-8k-analysis/) | SEC Filing Analysis | Analyze 8-K filings to extract material events and corporate changes |
 
 ## Get Your Octagon API Key
 

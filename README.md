@@ -2,7 +2,47 @@
 
 A collection of AI agent skills for financial data analysis powered by the [Octagon MCP](https://github.com/OctagonAI/octagon-mcp).
 
-## Financial Metrics Analysis Skills
+## Installation
+
+```bash
+npx skills add OctagonAI/skills
+```
+
+<details>
+<summary>bun</summary>
+
+```bash
+bunx skills add OctagonAI/skills
+```
+
+</details>
+
+<details>
+<summary>pnpm</summary>
+
+```bash
+pnpm dlx skills add OctagonAI/skills
+```
+
+</details>
+
+<details>
+<summary>Claude Code</summary>
+
+```
+/plugin install <skill-name>
+```
+
+</details>
+
+<details>
+<summary>Manual installation</summary>
+
+Copy the skill folder to your Claude skills directory.
+
+</details>
+
+## Financial Metrics Skills
 
 | Skill | Category | Description |
 |-------|----------|-------------|

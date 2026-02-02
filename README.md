@@ -6,7 +6,7 @@ A collection of AI agent skills for financial data analysis powered by the [Octa
 
 | Skill | Description |
 |-------|-------------|
-| [financial-metrics-analysis-master](financial-metrics-analysis-master/) | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis and investment recommendations |
+| [financial-metrics-master](financial-metrics-master/) | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis and investment recommendations |
 
 ## Individual Skills
 

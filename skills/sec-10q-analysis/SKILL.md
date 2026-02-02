@@ -1,9 +1,9 @@
 ---
-name: 10q-analysis
+name: sec-10q-analysis
 description: Analyze 10-Q quarterly filings for public companies using Octagon MCP. Use when extracting quarterly performance metrics, revenue breakdown, operating margins, segment performance, and interim financial updates from SEC 10-Q filings.
 ---
 
-# 10-Q Analysis
+# SEC 10-Q Analysis
 
 Analyze quarterly 10-Q filings for public companies to extract quarterly performance metrics, segment breakdown, and interim financial updates using the Octagon MCP server.
 

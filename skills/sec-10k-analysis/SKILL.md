@@ -1,9 +1,9 @@
 ---
-name: 10k-analysis
+name: sec-10k-analysis
 description: Analyze 10-K annual filings for public companies using Octagon MCP. Use when extracting key financial metrics, risk factors, business overview, management discussion, and regulatory disclosures from SEC 10-K filings.
 ---
 
-# 10-K Analysis
+# SEC 10-K Analysis
 
 Analyze annual 10-K filings for public companies to extract key financial metrics, risk factors, and business insights using the Octagon MCP server.
 

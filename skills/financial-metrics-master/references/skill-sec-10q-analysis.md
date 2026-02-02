@@ -1,4 +1,4 @@
-# Skill: 10-Q Analysis
+# Skill: SEC 10-Q Analysis
 
 ## Purpose
 

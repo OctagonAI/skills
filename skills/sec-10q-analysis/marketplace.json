@@ -1,5 +1,5 @@
 {
-  "name": "10q-analysis",
+  "name": "sec-10q-analysis",
   "description": "Analyze 10-Q quarterly filings for public companies using Octagon MCP. Extract quarterly performance metrics, segment revenue, operating margins, and interim financial updates.",
   "version": "1.0.0",
   "author": "OctagonAI",

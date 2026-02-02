@@ -1,0 +1,8 @@
+{
+  "name": "balance-sheet-growth",
+  "description": "Retrieve year-over-year growth in balance sheet items including Total Assets, Total Liabilities, Shareholders Equity, Cash, and Inventories for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "balance-sheet", "yoy-growth", "assets", "liabilities", "equity", "financial-analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

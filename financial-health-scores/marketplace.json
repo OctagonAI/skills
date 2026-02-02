@@ -1,0 +1,8 @@
+{
+  "name": "financial-health-scores",
+  "description": "Retrieve financial health scores including Altman Z-Score and Piotroski Score for assessing bankruptcy risk and financial strength of public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "altman-z-score", "piotroski-score", "financial-health", "bankruptcy-risk", "value-investing", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

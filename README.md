@@ -17,6 +17,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 | [revenue-product-segmentation](revenue-product-segmentation/) | Retrieve revenue breakdown by product segment with concentration analysis |
 | [revenue-geographic-segmentation](revenue-geographic-segmentation/) | Retrieve revenue breakdown by geographic segment with regional exposure |
 | [analyst-estimates](analyst-estimates/) | Retrieve analyst Revenue and EPS estimates with consensus ranges |
+| [financial-health-scores](financial-health-scores/) | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
 
 ## Prerequisites
 

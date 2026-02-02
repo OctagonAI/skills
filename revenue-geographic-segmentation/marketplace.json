@@ -1,0 +1,8 @@
+{
+  "name": "revenue-geographic-segmentation",
+  "description": "Retrieve detailed revenue breakdown by geographic segment for public companies, including regional exposure and currency risk analysis.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "geographic-segmentation", "regional-revenue", "international", "currency-exposure", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

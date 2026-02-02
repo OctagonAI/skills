@@ -15,6 +15,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 | [balance-sheet](balance-sheet/) | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
 | [cash-flow-statement](cash-flow-statement/) | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
 | [revenue-product-segmentation](revenue-product-segmentation/) | Retrieve revenue breakdown by product segment with concentration analysis |
+| [revenue-geographic-segmentation](revenue-geographic-segmentation/) | Retrieve revenue breakdown by geographic segment with regional exposure |
 
 ## Prerequisites
 

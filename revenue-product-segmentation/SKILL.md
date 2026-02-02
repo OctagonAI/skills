@@ -9,7 +9,7 @@ Retrieve detailed revenue breakdown by product segment for public companies usin
 
 ## Prerequisites
 
-Ensure Octagon MCP is configured in Cursor. See [references/mcp-setup.md](references/mcp-setup.md) for installation.
+Ensure Octagon MCP is configured in your AI agent (Cursor, Claude Desktop, Windsurf, etc.). See [references/mcp-setup.md](references/mcp-setup.md) for installation instructions.
 
 ## Query Format
 

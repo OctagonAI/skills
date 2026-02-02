@@ -9,7 +9,7 @@ Retrieve and analyze ESG benchmark comparison metrics across sectors and industr
 
 ## Prerequisites
 
-Ensure Octagon MCP is configured in Cursor. See [references/mcp-setup.md](references/mcp-setup.md) for installation instructions.
+Ensure Octagon MCP is configured in your AI agent (Cursor, Claude Desktop, Windsurf, etc.). See [references/mcp-setup.md](references/mcp-setup.md) for installation instructions.
 
 ## Workflow
 

@@ -1,0 +1,8 @@
+{
+  "name": "financial-growth",
+  "description": "Retrieve comprehensive year-over-year growth in key financial metrics including Revenue, Gross Profit, Operating Income, Net Income, EPS, and Free Cash Flow for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "financial-growth", "yoy-growth", "revenue", "eps", "free-cash-flow", "financial-analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

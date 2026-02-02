@@ -1,0 +1,8 @@
+{
+  "name": "financial-metrics-analysis",
+  "description": "Analyze year-over-year growth in income statement items using Octagon MCP. Retrieve Revenue, COGS, Gross Profit, Operating Income, and Net Income growth for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "financial-analysis", "income-statement", "yoy-growth", "equity-research", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

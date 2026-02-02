@@ -76,6 +76,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-proxy-analysis](skills/sec-proxy-analysis/) | Extract executive compensation and governance info from proxy statements |
 | [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | Extract business descriptions and competitive landscape from 10-K filings |
 | [sec-footnotes-analysis](skills/sec-footnotes-analysis/) | Analyze footnotes and accounting policies from 10-K and 10-Q filings |
+| [sec-s1-analysis](skills/sec-s1-analysis/) | Analyze S-1 registration statements for IPO risks, opportunities, and capitalization |
 
 ## Get Your Octagon API Key
 

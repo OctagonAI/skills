@@ -1,0 +1,8 @@
+{
+  "name": "sec-s1-analysis",
+  "description": "Analyze S-1 registration statements for IPOs using Octagon MCP. Extract business models, risk factors, use of proceeds, capitalization, and growth opportunities from IPO filings.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "s1", "ipo", "registration-statement", "pre-ipo", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

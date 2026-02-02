@@ -1,0 +1,8 @@
+{
+  "name": "analyst-estimates",
+  "description": "Retrieve analyst financial estimates including Revenue and EPS projections with consensus ranges and analyst coverage for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "analyst-estimates", "consensus", "revenue-forecast", "eps-forecast", "valuation", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -16,6 +16,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 | [cash-flow-statement](cash-flow-statement/) | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |
 | [revenue-product-segmentation](revenue-product-segmentation/) | Retrieve revenue breakdown by product segment with concentration analysis |
 | [revenue-geographic-segmentation](revenue-geographic-segmentation/) | Retrieve revenue breakdown by geographic segment with regional exposure |
+| [analyst-estimates](analyst-estimates/) | Retrieve analyst Revenue and EPS estimates with consensus ranges |
 
 ## Prerequisites
 

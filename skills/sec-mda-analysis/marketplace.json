@@ -1,0 +1,8 @@
+{
+  "name": "sec-mda-analysis",
+  "description": "Analyze Management Discussion and Analysis (MD&A) sections from SEC filings using Octagon MCP. Extract strategic initiatives, financial performance commentary, and forward-looking statements.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "mda", "management-discussion", "10k", "10q", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

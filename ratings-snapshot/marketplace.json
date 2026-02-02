@@ -1,0 +1,8 @@
+{
+  "name": "ratings-snapshot",
+  "description": "Retrieve ratings snapshot with overall rating and key metric scores including DCF, ROE, ROA, Debt-to-Equity, P/E, and P/B for stock screening and quality assessment.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "ratings", "stock-screening", "roe", "roa", "valuation", "quality-metrics", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

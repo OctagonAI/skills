@@ -1,0 +1,8 @@
+{
+  "name": "10k-analysis",
+  "description": "Analyze 10-K annual filings for public companies using Octagon MCP. Extract key financial metrics, risk factors, business overview, and management discussion from SEC filings.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "10k", "annual-report", "risk-factors", "financial-analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

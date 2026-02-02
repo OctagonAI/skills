@@ -1,0 +1,8 @@
+{
+  "name": "sec-business-desc-analysis",
+  "description": "Extract and analyze business descriptions and competitive landscape from SEC filings using Octagon MCP. Research business models, market positioning, and strategic priorities.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "business-description", "competitive-analysis", "strategy", "10k", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

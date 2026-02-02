@@ -69,6 +69,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-mda-analysis](skills/sec-mda-analysis/) | SEC Filing Analysis | Analyze Management Discussion and Analysis sections for strategic insights |
 | [sec-8k-analysis](skills/sec-8k-analysis/) | SEC Filing Analysis | Analyze 8-K filings to extract material events and corporate changes |
 | [sec-proxy-analysis](skills/sec-proxy-analysis/) | SEC Filing Analysis | Extract executive compensation and governance info from proxy statements |
+| [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | SEC Filing Analysis | Extract business descriptions and competitive landscape from 10-K filings |
 
 ## Get Your Octagon API Key
 

@@ -1,0 +1,8 @@
+{
+  "name": "income-statement-growth",
+  "description": "Retrieve year-over-year growth in income statement items including Revenue, Gross Profit, Operating Income, Net Income, and EPS Diluted for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "income-statement", "yoy-growth", "revenue", "eps", "financial-analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

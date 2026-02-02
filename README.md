@@ -7,6 +7,7 @@ Agentic financial research skills powered by [Octagon MCP](https://github.com/Oc
 | Skill | Description |
 |-------|-------------|
 | [financial-metrics-analysis](financial-metrics-analysis/) | Analyze year-over-year growth in income statement items (Revenue, COGS, Gross Profit, Operating Income, Net Income) |
+| [income-statement-growth](income-statement-growth/) | Retrieve YoY growth in Revenue, Gross Profit, Operating Income, Net Income, and EPS Diluted |
 
 ## Prerequisites
 

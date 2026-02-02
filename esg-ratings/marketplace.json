@@ -1,0 +1,8 @@
+{
+  "name": "esg-ratings",
+  "description": "Retrieve ESG ratings and scores using Octagon MCP. Analyze Environmental, Social, and Governance ratings, MSCI ratings, Sustainalytics risk scores, and industry ESG rankings for public companies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "esg", "sustainability", "environmental", "social", "governance", "equity-research", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

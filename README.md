@@ -19,6 +19,7 @@ A collection of AI agent skills for financial data analysis powered by the [Octa
 | [analyst-estimates](analyst-estimates/) | Retrieve analyst Revenue and EPS estimates with consensus ranges |
 | [financial-health-scores](financial-health-scores/) | Retrieve Altman Z-Score and Piotroski Score for financial health assessment |
 | [historical-financial-ratings](historical-financial-ratings/) | Retrieve historical financial ratings and key metric scores (ROA, ROE, DCF, D/E) over time |
+| [esg-ratings](esg-ratings/) | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
 
 ## Get Your Octagon API Key
 

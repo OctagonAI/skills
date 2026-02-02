@@ -63,13 +63,18 @@ Copy the skill folder to your Claude skills directory.
 | [ratings-snapshot](skills/ratings-snapshot/) | Estimates & Ratings | Retrieve current financial ratings overview for quick assessment |
 | [esg-ratings](skills/esg-ratings/) | ESG | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
 | [esg-benchmark-comparison](skills/esg-benchmark-comparison/) | ESG | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
-| [sec-10k-analysis](skills/sec-10k-analysis/) | SEC Filing Analysis | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
-| [sec-10q-analysis](skills/sec-10q-analysis/) | SEC Filing Analysis | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
-| [sec-risk-factors](skills/sec-risk-factors/) | SEC Filing Analysis | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
-| [sec-mda-analysis](skills/sec-mda-analysis/) | SEC Filing Analysis | Analyze Management Discussion and Analysis sections for strategic insights |
-| [sec-8k-analysis](skills/sec-8k-analysis/) | SEC Filing Analysis | Analyze 8-K filings to extract material events and corporate changes |
-| [sec-proxy-analysis](skills/sec-proxy-analysis/) | SEC Filing Analysis | Extract executive compensation and governance info from proxy statements |
-| [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | SEC Filing Analysis | Extract business descriptions and competitive landscape from 10-K filings |
+
+## SEC Filings Analysis Skills
+
+| Skill | Description |
+|-------|-------------|
+| [sec-10k-analysis](skills/sec-10k-analysis/) | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
+| [sec-10q-analysis](skills/sec-10q-analysis/) | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
+| [sec-risk-factors](skills/sec-risk-factors/) | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
+| [sec-mda-analysis](skills/sec-mda-analysis/) | Analyze Management Discussion and Analysis sections for strategic insights |
+| [sec-8k-analysis](skills/sec-8k-analysis/) | Analyze 8-K filings to extract material events and corporate changes |
+| [sec-proxy-analysis](skills/sec-proxy-analysis/) | Extract executive compensation and governance info from proxy statements |
+| [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | Extract business descriptions and competitive landscape from 10-K filings |
 
 ## Get Your Octagon API Key
 

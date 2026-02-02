@@ -1,24 +1,12 @@
 # Octagon Skills
 
-Agentic financial research skills powered by [Octagon MCP](https://github.com/OctagonAI/octagon-mcp) for autonomous market intelligence.
+Agentic financial research skills powered by [Octagon MCP](https://github.com/OctagonAI/octagon-mcp).
 
 ## Available Skills
 
-### financial-metrics-analysis
-
-Analyze year-over-year growth in income statement items for public companies.
-
-**Example Query:**
-```
-Retrieve year-over-year growth in key income-statement items for AAPL, limited to 5 records and filtered by period FY.
-```
-
-**Output:**
-
-| Year | Revenue Growth | Cost of Revenue Growth | Gross Profit Growth | Operating Income Growth | Net Income Growth |
-|------|----------------|------------------------|---------------------|-------------------------|-------------------|
-
-**Data Sources:** octagon-companies-agent, octagon-financials-agent
+| Skill | Description |
+|-------|-------------|
+| [financial-metrics-analysis](financial-metrics-analysis/) | Analyze year-over-year growth in income statement items (Revenue, COGS, Gross Profit, Operating Income, Net Income) |
 
 ## Prerequisites
 

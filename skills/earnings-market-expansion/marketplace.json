@@ -1,0 +1,8 @@
+{
+  "name": "earnings-market-expansion",
+  "description": "Identify market expansion and geographic growth plans from earnings calls including new market launches and international expansion.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "expansion", "geographic", "growth", "international", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

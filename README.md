@@ -78,6 +78,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-revenue-guidance](skills/earnings-revenue-guidance/) | Revenue Guidance | Extract revenue guidance and growth projections with segment and currency breakdown |
 | [earnings-competitive-review](skills/earnings-competitive-review/) | Competitive Analysis | Analyze competitive landscape, market positioning, and strategic differentiation |
 | [earnings-capital-allocation](skills/earnings-capital-allocation/) | Capital Allocation | Extract capital allocation, investment priorities, buybacks, and dividend commentary |
+| [earnings-market-expansion](skills/earnings-market-expansion/) | Market Expansion | Identify geographic growth plans, new market launches, and product diversification |
 
 ## SEC Filings Analysis Skills
 

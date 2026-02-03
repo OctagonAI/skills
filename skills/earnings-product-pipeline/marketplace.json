@@ -1,0 +1,8 @@
+{
+  "name": "earnings-product-pipeline",
+  "description": "Extract product development and pipeline updates from earnings calls including clinical trials, regulatory submissions, and launch timelines.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "pipeline", "product", "r&d", "clinical-trials", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

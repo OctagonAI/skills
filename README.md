@@ -80,6 +80,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-capital-allocation](skills/earnings-capital-allocation/) | Capital Allocation | Extract capital allocation, investment priorities, buybacks, and dividend commentary |
 | [earnings-market-expansion](skills/earnings-market-expansion/) | Market Expansion | Identify geographic growth plans, new market launches, and product diversification |
 | [earnings-cost-mgmt](skills/earnings-cost-mgmt/) | Cost Management | Analyze cost reduction initiatives, restructuring, and operational efficiency |
+| [earnings-product-pipeline](skills/earnings-product-pipeline/) | Product Pipeline | Extract R&D updates, clinical trials, regulatory filings, and launch timelines |
 
 ## SEC Filings Analysis Skills
 

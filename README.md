@@ -102,6 +102,7 @@ Copy the skill folder to your Claude skills directory.
 | [industry-performance-snapshot](skills/industry-performance-snapshot/) | Get daily industry performance overview with average price changes |
 | [historical-market-cap](skills/historical-market-cap/) | Retrieve historical market capitalization data over date ranges |
 | [stock-historical-index](skills/stock-historical-index/) | Retrieve historical end-of-day price data for market indices (S&P 500, NASDAQ, etc.) |
+| [stock-price-change](skills/stock-price-change/) | Get price change statistics across multiple time periods (1D to 10Y) |
 
 ## Get Your Octagon API Key
 

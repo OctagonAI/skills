@@ -1,0 +1,8 @@
+{
+  "name": "stock-price-change",
+  "description": "Retrieve stock price change statistics across multiple time periods using Octagon MCP. Analyze short-term momentum and long-term growth.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "price-change", "returns", "performance", "momentum", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

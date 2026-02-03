@@ -80,6 +80,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-amendments-review](skills/sec-amendments-review/) | Review amendments to SEC filings and identify material changes or corrections |
 | [sec-annual-comparison](skills/sec-annual-comparison/) | Compare key metrics and risk factors between current and prior year 10-K filings |
 | [sec-segment-reporting](skills/sec-segment-reporting/) | Analyze business segment performance, margins, and geographic breakdown |
+| [sec-cash-flow-review](skills/sec-cash-flow-review/) | Extract and analyze cash flow trends and working capital changes |
 
 ## Get Your Octagon API Key
 

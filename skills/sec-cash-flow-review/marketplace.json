@@ -1,0 +1,8 @@
+{
+  "name": "sec-cash-flow-review",
+  "description": "Extract and analyze cash flow trends and working capital changes from SEC filings using Octagon MCP. Research operating cash flow, free cash flow, liquidity, and working capital dynamics.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "cash-flow", "working-capital", "liquidity", "fcf", "10k", "10q", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

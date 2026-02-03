@@ -76,6 +76,8 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-analyst-questions](skills/earnings-analyst-questions/) | Analyst Questions | Identify key themes and concerns raised by analysts with attribution |
 | [earnings-conf-call-sentiment](skills/earnings-conf-call-sentiment/) | Sentiment Analysis | Analyze overall sentiment and tone of management during conference calls |
 | [earnings-revenue-guidance](skills/earnings-revenue-guidance/) | Revenue Guidance | Extract revenue guidance and growth projections with segment and currency breakdown |
+| [earnings-competitive-review](skills/earnings-competitive-review/) | Competitive Analysis | Analyze competitive landscape, market positioning, and strategic differentiation |
+| [earnings-capital-allocation](skills/earnings-capital-allocation/) | Capital Allocation | Extract capital allocation, investment priorities, buybacks, and dividend commentary |
 
 ## SEC Filings Analysis Skills
 

@@ -1,0 +1,8 @@
+{
+  "name": "earnings-capital-allocation",
+  "description": "Extract management's commentary on capital allocation, investment priorities, shareholder returns, and strategic investments from earnings calls.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "capital-allocation", "buybacks", "dividends", "capex", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

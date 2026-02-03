@@ -1,0 +1,8 @@
+{
+  "name": "earnings-competitive-review",
+  "description": "Analyze management's discussion of competitive landscape, market positioning, and strategic differentiation from earnings calls.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "competitive", "market-share", "positioning", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

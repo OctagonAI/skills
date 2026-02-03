@@ -1,0 +1,8 @@
+{
+  "name": "industry-performance-snapshot",
+  "description": "Retrieve a daily overview of industry performance using Octagon MCP. Analyze daily price movements and average changes for specific industries.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "industry", "performance", "daily", "returns", "momentum", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

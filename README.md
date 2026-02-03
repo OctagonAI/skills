@@ -98,6 +98,7 @@ Copy the skill folder to your Claude skills directory.
 | [stock-grades](skills/stock-grades/) | Get latest analyst ratings, upgrades, and downgrades from financial institutions |
 | [sector-pe-ratios](skills/sector-pe-ratios/) | Retrieve sector P/E ratios by exchange for valuation benchmarking |
 | [industry-pe-ratios](skills/industry-pe-ratios/) | Retrieve industry-specific P/E ratios for peer group comparisons |
+| [sector-performance-snapshot](skills/sector-performance-snapshot/) | Get sector-wide metrics including revenue, EBITDA, market cap, and enterprise value |
 
 ## Get Your Octagon API Key
 

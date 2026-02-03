@@ -1,0 +1,8 @@
+{
+  "name": "sector-performance-snapshot",
+  "description": "Retrieve a snapshot of market sector performance using Octagon MCP. Analyze sector-wide revenue, EBITDA, net income, market cap, and enterprise value.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sector", "performance", "revenue", "ebitda", "market-cap", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

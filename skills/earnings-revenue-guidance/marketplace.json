@@ -1,0 +1,8 @@
+{
+  "name": "earnings-revenue-guidance",
+  "description": "Extract specific revenue guidance and growth projections from earnings call transcripts with segment breakdown and currency adjustments.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "revenue", "guidance", "growth", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

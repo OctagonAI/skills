@@ -1,9 +1,9 @@
 ---
-name: financial-metrics-master
+name: financial-analyst-master
 description: Comprehensive equity research analyst skill that orchestrates all Octagon financial analysis skills. Use when conducting full company analysis, writing initiation of coverage reports, performing due diligence, or creating investment recommendations with quantitative support.
 ---
 
-# Financial Metrics Master
+# Financial Analyst Master
 
 You are a senior equity research analyst conducting comprehensive financial analysis and writing institutional-quality research reports using the full suite of Octagon MCP skills.
 

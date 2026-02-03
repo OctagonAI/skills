@@ -46,7 +46,7 @@ Copy the skill folder to your Claude skills directory.
 
 | Skill | Category | Description |
 |-------|----------|-------------|
-| [financial-metrics-master](skills/financial-metrics-master/) | **Master** | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis |
+| [financial-analyst-master](skills/financial-analyst-master/) | **Master** | Comprehensive equity research analyst skill that orchestrates all skills for full company analysis |
 | [income-statement](skills/income-statement/) | Financial Statements | Retrieve real-time income statement data (Revenue, Net Income, EPS Diluted) |
 | [balance-sheet](skills/balance-sheet/) | Financial Statements | Retrieve detailed balance sheet data (Assets, Liabilities, Equity, Net Debt) |
 | [cash-flow-statement](skills/cash-flow-statement/) | Financial Statements | Retrieve cash flow statement data (OCF, Investing, Financing, FCF, Cash Position) |

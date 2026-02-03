@@ -1,0 +1,8 @@
+{
+  "name": "sec-debt-covenant",
+  "description": "Analyze debt covenants and credit agreement terms from SEC filings using Octagon MCP. Research financial covenants, leverage ratios, interest coverage, credit facilities, and covenant compliance.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "debt", "covenants", "credit-agreement", "leverage", "10k", "10q", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

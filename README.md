@@ -82,6 +82,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-segment-reporting](skills/sec-segment-reporting/) | Analyze business segment performance, margins, and geographic breakdown |
 | [sec-cash-flow-review](skills/sec-cash-flow-review/) | Extract and analyze cash flow trends and working capital changes |
 | [sec-corp-governance](skills/sec-corp-governance/) | Review corporate governance practices, board composition, and policies |
+| [sec-debt-covenant](skills/sec-debt-covenant/) | Analyze debt covenants and credit agreement terms from SEC filings |
 
 ## Get Your Octagon API Key
 

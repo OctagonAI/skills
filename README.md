@@ -81,6 +81,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-annual-comparison](skills/sec-annual-comparison/) | Compare key metrics and risk factors between current and prior year 10-K filings |
 | [sec-segment-reporting](skills/sec-segment-reporting/) | Analyze business segment performance, margins, and geographic breakdown |
 | [sec-cash-flow-review](skills/sec-cash-flow-review/) | Extract and analyze cash flow trends and working capital changes |
+| [sec-corp-governance](skills/sec-corp-governance/) | Review corporate governance practices, board composition, and policies |
 
 ## Get Your Octagon API Key
 

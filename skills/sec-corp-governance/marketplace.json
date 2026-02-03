@@ -1,0 +1,8 @@
+{
+  "name": "sec-corp-governance",
+  "description": "Review corporate governance practices and board composition from SEC filings using Octagon MCP. Research board structure, director qualifications, committee composition, and governance policies.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "governance", "board", "proxy", "def14a", "directors", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

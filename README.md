@@ -103,6 +103,7 @@ Copy the skill folder to your Claude skills directory.
 | [historical-market-cap](skills/historical-market-cap/) | Retrieve historical market capitalization data over date ranges |
 | [stock-historical-index](skills/stock-historical-index/) | Retrieve historical end-of-day price data for market indices (S&P 500, NASDAQ, etc.) |
 | [stock-price-change](skills/stock-price-change/) | Get price change statistics across multiple time periods (1D to 10Y) |
+| [commodities-list](skills/commodities-list/) | Retrieve catalog of tradable commodities across energy, metals, and agriculture |
 
 ## Get Your Octagon API Key
 

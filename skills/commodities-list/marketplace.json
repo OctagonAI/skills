@@ -1,0 +1,8 @@
+{
+  "name": "commodities-list",
+  "description": "Retrieve the full catalog of tradable commodities across energy, metals, and agriculture using Octagon MCP. Research commodity markets and trading firms.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "commodities", "energy", "metals", "agriculture", "trading", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "company-market-cap",
+  "description": "Retrieve market capitalization data for a single company using Octagon MCP. Get current market value, size classification, and valuation context.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "market-cap", "valuation", "company", "size", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

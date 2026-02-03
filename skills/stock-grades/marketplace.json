@@ -1,0 +1,8 @@
+{
+  "name": "stock-grades",
+  "description": "Retrieve the latest stock grades and ratings from top analysts and financial institutions using Octagon MCP. Track upgrades, downgrades, and rating changes.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "stock-grades", "analyst", "ratings", "upgrades", "downgrades", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -95,6 +95,7 @@ Copy the skill folder to your Claude skills directory.
 | [company-market-cap](skills/company-market-cap/) | Get market capitalization data for a single company with size classification |
 | [price-target-summary](skills/price-target-summary/) | Retrieve analysts' price target summary with trends across timeframes |
 | [price-target-consensus](skills/price-target-consensus/) | Get consensus, median, high, and low analyst price targets |
+| [stock-grades](skills/stock-grades/) | Get latest analyst ratings, upgrades, and downgrades from financial institutions |
 
 ## Get Your Octagon API Key
 

@@ -1,0 +1,8 @@
+{
+  "name": "batch-market-cap",
+  "description": "Retrieve market capitalization data for multiple companies at once using Octagon MCP. Compare valuations across peers and analyze portfolio composition.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "market-cap", "valuation", "batch", "comparison", "portfolio", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

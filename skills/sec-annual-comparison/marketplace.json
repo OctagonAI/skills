@@ -1,0 +1,8 @@
+{
+  "name": "sec-annual-comparison",
+  "description": "Compare key metrics and disclosures between annual 10-K filings using Octagon MCP. Analyze year-over-year changes in financials, risk factors, and strategic priorities.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "10k", "annual-comparison", "yoy-analysis", "trends", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

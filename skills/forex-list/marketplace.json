@@ -1,0 +1,8 @@
+{
+  "name": "forex-list",
+  "description": "Retrieve a full listing of actively traded currency pairs in the global forex market using Octagon MCP. Explore major, cross, and exotic pairs.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "forex", "currency", "pairs", "fx", "trading", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

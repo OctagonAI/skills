@@ -105,6 +105,7 @@ Copy the skill folder to your Claude skills directory.
 | [stock-price-change](skills/stock-price-change/) | Get price change statistics across multiple time periods (1D to 10Y) |
 | [commodities-list](skills/commodities-list/) | Retrieve catalog of tradable commodities across energy, metals, and agriculture |
 | [commodities-quote](skills/commodities-quote/) | Get real-time commodity price quotes with day ranges and moving averages |
+| [forex-list](skills/forex-list/) | Retrieve listing of actively traded currency pairs (majors, crosses, exotics) |
 
 ## Get Your Octagon API Key
 

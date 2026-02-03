@@ -1,4 +1,4 @@
-# Stock Analysis Workflow Overview
+# Market Analysis Workflow Overview
 
 ## Complete Analysis Workflow
 
@@ -6,7 +6,7 @@ This document outlines the end-to-end workflow for comprehensive stock and marke
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    STOCK ANALYST WORKFLOW                        │
+│                   MARKET ANALYST WORKFLOW                        │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  Phase 1: Stock Snapshot                                         │

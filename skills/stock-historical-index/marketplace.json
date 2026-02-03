@@ -1,0 +1,8 @@
+{
+  "name": "stock-historical-index",
+  "description": "Retrieve full historical end-of-day price data for market indices using Octagon MCP. Analyze S&P 500, NASDAQ, Dow Jones, and other index performance over time.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "index", "historical", "sp500", "nasdaq", "market", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

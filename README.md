@@ -101,6 +101,7 @@ Copy the skill folder to your Claude skills directory.
 | [sector-performance-snapshot](skills/sector-performance-snapshot/) | Get sector-wide metrics including revenue, EBITDA, market cap, and enterprise value |
 | [industry-performance-snapshot](skills/industry-performance-snapshot/) | Get daily industry performance overview with average price changes |
 | [historical-market-cap](skills/historical-market-cap/) | Retrieve historical market capitalization data over date ranges |
+| [stock-historical-index](skills/stock-historical-index/) | Retrieve historical end-of-day price data for market indices (S&P 500, NASDAQ, etc.) |
 
 ## Get Your Octagon API Key
 

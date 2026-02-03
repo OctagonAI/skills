@@ -68,6 +68,7 @@ Copy the skill folder to your Claude skills directory.
 
 | Skill | Category | Description |
 |-------|----------|-------------|
+| [earnings-analyst-master](skills/earnings-analyst-master/) | **Master** | Comprehensive earnings analyst skill that orchestrates all earnings skills for transcript analysis |
 | [earnings-call-insights](skills/earnings-call-insights/) | Guidance Analysis | Analyze earnings call transcripts to extract future guidance, strategic priorities, and management commentary |
 | [earnings-call-analysis](skills/earnings-call-analysis/) | Transcript Analysis | Analyze earnings call transcripts with follow-up questions and source citations |
 | [earnings-mgmt-comments](skills/earnings-mgmt-comments/) | Management Commentary | Extract management's commentary on specific topics with executive attribution |

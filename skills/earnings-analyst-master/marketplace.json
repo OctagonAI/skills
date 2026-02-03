@@ -1,0 +1,8 @@
+{
+  "name": "earnings-analyst-master",
+  "description": "Comprehensive earnings call analyst skill that orchestrates all Octagon earnings analysis skills for guidance extraction, management commentary, and strategic analysis.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "master", "earnings", "transcripts", "guidance", "analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sec-amendments-review",
+  "description": "Review amendments to SEC filings using Octagon MCP. Track material changes, corrections, restatements, and updates to 10-K/A, 10-Q/A, 8-K/A, and S-1/A filings.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "amendments", "restatements", "corrections", "10k-a", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

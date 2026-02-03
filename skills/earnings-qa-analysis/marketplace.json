@@ -1,0 +1,8 @@
+{
+  "name": "earnings-qa-analysis",
+  "description": "Analyze the Q&A section of earnings call transcripts for strategic insights, analyst concerns, and management responses.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "qa", "transcripts", "analyst", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -96,6 +96,7 @@ Copy the skill folder to your Claude skills directory.
 | [price-target-summary](skills/price-target-summary/) | Retrieve analysts' price target summary with trends across timeframes |
 | [price-target-consensus](skills/price-target-consensus/) | Get consensus, median, high, and low analyst price targets |
 | [stock-grades](skills/stock-grades/) | Get latest analyst ratings, upgrades, and downgrades from financial institutions |
+| [sector-pe-ratios](skills/sector-pe-ratios/) | Retrieve sector P/E ratios by exchange for valuation benchmarking |
 
 ## Get Your Octagon API Key
 

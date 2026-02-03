@@ -1,0 +1,8 @@
+{
+  "name": "sector-pe-ratios",
+  "description": "Retrieve sector P/E ratios using Octagon MCP. Compare company valuations to sector benchmarks and analyze sector-wide valuation trends.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "pe-ratio", "sector", "valuation", "benchmark", "exchange", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

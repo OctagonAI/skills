@@ -223,3 +223,7 @@ Add this to your `./codeium/windsurf/model_config.json`:
 
 - [Octagon Documentation](https://docs.octagonagents.com)
 - [Octagon MCP GitHub](https://github.com/OctagonAI/octagon-mcp)
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.

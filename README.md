@@ -79,6 +79,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-competitive-review](skills/earnings-competitive-review/) | Competitive Analysis | Analyze competitive landscape, market positioning, and strategic differentiation |
 | [earnings-capital-allocation](skills/earnings-capital-allocation/) | Capital Allocation | Extract capital allocation, investment priorities, buybacks, and dividend commentary |
 | [earnings-market-expansion](skills/earnings-market-expansion/) | Market Expansion | Identify geographic growth plans, new market launches, and product diversification |
+| [earnings-cost-mgmt](skills/earnings-cost-mgmt/) | Cost Management | Analyze cost reduction initiatives, restructuring, and operational efficiency |
 
 ## SEC Filings Analysis Skills
 

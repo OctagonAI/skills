@@ -1,0 +1,8 @@
+{
+  "name": "earnings-cost-mgmt",
+  "description": "Analyze cost reduction initiatives and operational efficiency measures from earnings transcripts including workforce actions and facility consolidation.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "cost", "efficiency", "restructuring", "expenses", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

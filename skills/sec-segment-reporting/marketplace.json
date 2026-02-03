@@ -1,0 +1,8 @@
+{
+  "name": "sec-segment-reporting",
+  "description": "Analyze business segment performance and reporting from SEC filings using Octagon MCP. Research segment revenue, operating income, margins, and geographic breakdown.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "segments", "operating-segments", "geographic", "10k", "10q", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -79,6 +79,7 @@ Copy the skill folder to your Claude skills directory.
 | [sec-s1-analysis](skills/sec-s1-analysis/) | Analyze S-1 registration statements for IPO risks, opportunities, and capitalization |
 | [sec-amendments-review](skills/sec-amendments-review/) | Review amendments to SEC filings and identify material changes or corrections |
 | [sec-annual-comparison](skills/sec-annual-comparison/) | Compare key metrics and risk factors between current and prior year 10-K filings |
+| [sec-segment-reporting](skills/sec-segment-reporting/) | Analyze business segment performance, margins, and geographic breakdown |
 
 ## Get Your Octagon API Key
 

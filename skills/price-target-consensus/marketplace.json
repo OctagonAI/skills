@@ -1,0 +1,8 @@
+{
+  "name": "price-target-consensus",
+  "description": "Retrieve consensus price targets for any stock using Octagon MCP. Get average, median, high, and low analyst price targets.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "price-target", "consensus", "analyst", "valuation", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

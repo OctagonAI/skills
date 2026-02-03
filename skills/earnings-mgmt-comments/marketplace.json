@@ -1,0 +1,8 @@
+{
+  "name": "earnings-mgmt-comments",
+  "description": "Extract management's commentary on specific topics from earnings call transcripts with executive attribution and source citations.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "management", "commentary", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

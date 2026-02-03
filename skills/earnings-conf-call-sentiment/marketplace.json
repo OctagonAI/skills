@@ -1,0 +1,8 @@
+{
+  "name": "earnings-conf-call-sentiment",
+  "description": "Analyze the overall sentiment and tone of management during earnings conference calls with confidence indicators.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "sentiment", "tone", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

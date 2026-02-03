@@ -74,6 +74,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-qa-analysis](skills/earnings-qa-analysis/) | Q&A Analysis | Analyze the Q&A section for strategic insights and analyst concerns |
 | [earnings-financial-guidance](skills/earnings-financial-guidance/) | Financial Guidance | Extract financial guidance and forward-looking statements with segment detail |
 | [earnings-analyst-questions](skills/earnings-analyst-questions/) | Analyst Questions | Identify key themes and concerns raised by analysts with attribution |
+| [earnings-conf-call-sentiment](skills/earnings-conf-call-sentiment/) | Sentiment Analysis | Analyze overall sentiment and tone of management during conference calls |
 
 ## SEC Filings Analysis Skills
 

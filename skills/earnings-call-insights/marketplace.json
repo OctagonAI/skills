@@ -1,0 +1,8 @@
+{
+  "name": "earnings-call-insights",
+  "description": "Analyze earnings call transcripts to extract key insights about future guidance, strategic priorities, and management commentary.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "transcripts", "guidance", "analysis", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

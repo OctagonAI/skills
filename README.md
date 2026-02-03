@@ -64,6 +64,12 @@ Copy the skill folder to your Claude skills directory.
 | [esg-ratings](skills/esg-ratings/) | ESG | Retrieve ESG ratings and scores including MSCI ratings, Sustainalytics risk, and industry rank |
 | [esg-benchmark-comparison](skills/esg-benchmark-comparison/) | ESG | Retrieve ESG benchmark comparison metrics by sector using MSCI, S&P, CDP frameworks |
 
+## Earnings Call Analysis Skills
+
+| Skill | Category | Description |
+|-------|----------|-------------|
+| [earnings-call-insights](skills/earnings-call-insights/) | Guidance Analysis | Analyze earnings call transcripts to extract future guidance, strategic priorities, and management commentary |
+
 ## SEC Filings Analysis Skills
 
 | Skill | Category | Description |

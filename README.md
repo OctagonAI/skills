@@ -72,6 +72,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-call-analysis](skills/earnings-call-analysis/) | Transcript Analysis | Analyze earnings call transcripts with follow-up questions and source citations |
 | [earnings-mgmt-comments](skills/earnings-mgmt-comments/) | Management Commentary | Extract management's commentary on specific topics with executive attribution |
 | [earnings-qa-analysis](skills/earnings-qa-analysis/) | Q&A Analysis | Analyze the Q&A section for strategic insights and analyst concerns |
+| [earnings-financial-guidance](skills/earnings-financial-guidance/) | Financial Guidance | Extract financial guidance and forward-looking statements with segment detail |
 
 ## SEC Filings Analysis Skills
 

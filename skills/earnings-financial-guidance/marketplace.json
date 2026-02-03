@@ -1,0 +1,8 @@
+{
+  "name": "earnings-financial-guidance",
+  "description": "Extract and analyze financial guidance and forward-looking statements from earnings transcripts with segment detail and risk factors.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "guidance", "forecasts", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

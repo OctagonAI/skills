@@ -68,6 +68,7 @@ Copy the skill folder to your Claude skills directory.
 
 | Skill | Description |
 |-------|-------------|
+| [sec-analyst-master](skills/sec-analyst-master/) | **Master** - Comprehensive SEC filing analyst skill that orchestrates all SEC skills for due diligence |
 | [sec-10k-analysis](skills/sec-10k-analysis/) | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
 | [sec-10q-analysis](skills/sec-10q-analysis/) | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
 | [sec-risk-factors](skills/sec-risk-factors/) | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |

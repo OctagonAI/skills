@@ -1,0 +1,8 @@
+{
+  "name": "sec-analyst-master",
+  "description": "Comprehensive SEC filing analyst skill that orchestrates all Octagon SEC analysis skills for due diligence, regulatory review, and M&A analysis.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "sec-filings", "due-diligence", "master-skill", "10k", "10q", "8k", "proxy", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

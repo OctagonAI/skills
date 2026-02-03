@@ -90,6 +90,7 @@ Copy the skill folder to your Claude skills directory.
 | Skill | Description |
 |-------|-------------|
 | [stock-performance](skills/stock-performance/) | Retrieve daily closing prices, trading volume, and historical price trends |
+| [stock-quote](skills/stock-quote/) | Get real-time stock quotes with current price, volume, day range, 52-week range, and moving averages |
 
 ## Get Your Octagon API Key
 

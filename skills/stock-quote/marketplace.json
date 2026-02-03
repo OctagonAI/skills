@@ -1,0 +1,8 @@
+{
+  "name": "stock-quote",
+  "description": "Retrieve real-time stock quotes using Octagon MCP. Get current price, day range, 52-week range, volume, market cap, and moving averages.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "stock-quote", "real-time", "market-data", "price", "volume", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

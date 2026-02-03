@@ -1,0 +1,8 @@
+{
+  "name": "stock-performance",
+  "description": "Retrieve stock price data and performance metrics using Octagon MCP. Analyze daily closing prices, trading volume, price trends, and historical performance.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "stock-price", "market-data", "trading", "performance", "volume", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

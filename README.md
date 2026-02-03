@@ -85,6 +85,12 @@ Copy the skill folder to your Claude skills directory.
 | [sec-corp-governance](skills/sec-corp-governance/) | Review corporate governance practices, board composition, and policies |
 | [sec-debt-covenant](skills/sec-debt-covenant/) | Analyze debt covenants and credit agreement terms from SEC filings |
 
+## Stock Performance & Market Data Skills
+
+| Skill | Description |
+|-------|-------------|
+| [stock-performance](skills/stock-performance/) | Retrieve daily closing prices, trading volume, and historical price trends |
+
 ## Get Your Octagon API Key
 
 1. Sign up for a free account at [Octagon](https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys)

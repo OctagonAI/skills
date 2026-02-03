@@ -66,47 +66,47 @@ Copy the skill folder to your Claude skills directory.
 
 ## SEC Filings Analysis Skills
 
-| Skill | Description |
-|-------|-------------|
-| [sec-analyst-master](skills/sec-analyst-master/) | **Master** - Comprehensive SEC filing analyst skill that orchestrates all SEC skills for due diligence |
-| [sec-10k-analysis](skills/sec-10k-analysis/) | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
-| [sec-10q-analysis](skills/sec-10q-analysis/) | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
-| [sec-risk-factors](skills/sec-risk-factors/) | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
-| [sec-mda-analysis](skills/sec-mda-analysis/) | Analyze Management Discussion and Analysis sections for strategic insights |
-| [sec-8k-analysis](skills/sec-8k-analysis/) | Analyze 8-K filings to extract material events and corporate changes |
-| [sec-proxy-analysis](skills/sec-proxy-analysis/) | Extract executive compensation and governance info from proxy statements |
-| [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | Extract business descriptions and competitive landscape from 10-K filings |
-| [sec-footnotes-analysis](skills/sec-footnotes-analysis/) | Analyze footnotes and accounting policies from 10-K and 10-Q filings |
-| [sec-s1-analysis](skills/sec-s1-analysis/) | Analyze S-1 registration statements for IPO risks, opportunities, and capitalization |
-| [sec-amendments-review](skills/sec-amendments-review/) | Review amendments to SEC filings and identify material changes or corrections |
-| [sec-annual-comparison](skills/sec-annual-comparison/) | Compare key metrics and risk factors between current and prior year 10-K filings |
-| [sec-segment-reporting](skills/sec-segment-reporting/) | Analyze business segment performance, margins, and geographic breakdown |
-| [sec-cash-flow-review](skills/sec-cash-flow-review/) | Extract and analyze cash flow trends and working capital changes |
-| [sec-corp-governance](skills/sec-corp-governance/) | Review corporate governance practices, board composition, and policies |
-| [sec-debt-covenant](skills/sec-debt-covenant/) | Analyze debt covenants and credit agreement terms from SEC filings |
+| Skill | Category | Description |
+|-------|----------|-------------|
+| [sec-analyst-master](skills/sec-analyst-master/) | **Master** | Comprehensive SEC filing analyst skill that orchestrates all SEC skills for due diligence |
+| [sec-10k-analysis](skills/sec-10k-analysis/) | Annual Filings | Analyze 10-K annual filings to extract key financial metrics, risk factors, and business insights |
+| [sec-10q-analysis](skills/sec-10q-analysis/) | Quarterly Filings | Analyze 10-Q quarterly filings to extract quarterly performance metrics and segment breakdown |
+| [sec-risk-factors](skills/sec-risk-factors/) | Risk Analysis | Extract and summarize risk factors from 10-K and 10-Q filings with categorization |
+| [sec-mda-analysis](skills/sec-mda-analysis/) | Management Analysis | Analyze Management Discussion and Analysis sections for strategic insights |
+| [sec-8k-analysis](skills/sec-8k-analysis/) | Current Events | Analyze 8-K filings to extract material events and corporate changes |
+| [sec-proxy-analysis](skills/sec-proxy-analysis/) | Governance | Extract executive compensation and governance info from proxy statements |
+| [sec-business-desc-analysis](skills/sec-business-desc-analysis/) | Business Analysis | Extract business descriptions and competitive landscape from 10-K filings |
+| [sec-footnotes-analysis](skills/sec-footnotes-analysis/) | Accounting | Analyze footnotes and accounting policies from 10-K and 10-Q filings |
+| [sec-s1-analysis](skills/sec-s1-analysis/) | IPO Analysis | Analyze S-1 registration statements for IPO risks, opportunities, and capitalization |
+| [sec-amendments-review](skills/sec-amendments-review/) | Filing Changes | Review amendments to SEC filings and identify material changes or corrections |
+| [sec-annual-comparison](skills/sec-annual-comparison/) | Trend Analysis | Compare key metrics and risk factors between current and prior year 10-K filings |
+| [sec-segment-reporting](skills/sec-segment-reporting/) | Segment Analysis | Analyze business segment performance, margins, and geographic breakdown |
+| [sec-cash-flow-review](skills/sec-cash-flow-review/) | Cash Flow | Extract and analyze cash flow trends and working capital changes |
+| [sec-corp-governance](skills/sec-corp-governance/) | Governance | Review corporate governance practices, board composition, and policies |
+| [sec-debt-covenant](skills/sec-debt-covenant/) | Debt Analysis | Analyze debt covenants and credit agreement terms from SEC filings |
 
 ## Stock Performance & Market Data Skills
 
-| Skill | Description |
-|-------|-------------|
-| [market-analyst-master](skills/market-analyst-master/) | **Master** - Comprehensive market analyst skill that orchestrates all stock skills for market analysis |
-| [stock-performance](skills/stock-performance/) | Retrieve daily closing prices, trading volume, and historical price trends |
-| [stock-quote](skills/stock-quote/) | Get real-time stock quotes with current price, volume, day range, 52-week range, and moving averages |
-| [batch-market-cap](skills/batch-market-cap/) | Retrieve market capitalization data for multiple companies at once |
-| [company-market-cap](skills/company-market-cap/) | Get market capitalization data for a single company with size classification |
-| [price-target-summary](skills/price-target-summary/) | Retrieve analysts' price target summary with trends across timeframes |
-| [price-target-consensus](skills/price-target-consensus/) | Get consensus, median, high, and low analyst price targets |
-| [stock-grades](skills/stock-grades/) | Get latest analyst ratings, upgrades, and downgrades from financial institutions |
-| [sector-pe-ratios](skills/sector-pe-ratios/) | Retrieve sector P/E ratios by exchange for valuation benchmarking |
-| [industry-pe-ratios](skills/industry-pe-ratios/) | Retrieve industry-specific P/E ratios for peer group comparisons |
-| [sector-performance-snapshot](skills/sector-performance-snapshot/) | Get sector-wide metrics including revenue, EBITDA, market cap, and enterprise value |
-| [industry-performance-snapshot](skills/industry-performance-snapshot/) | Get daily industry performance overview with average price changes |
-| [historical-market-cap](skills/historical-market-cap/) | Retrieve historical market capitalization data over date ranges |
-| [stock-historical-index](skills/stock-historical-index/) | Retrieve historical end-of-day price data for market indices (S&P 500, NASDAQ, etc.) |
-| [stock-price-change](skills/stock-price-change/) | Get price change statistics across multiple time periods (1D to 10Y) |
-| [commodities-list](skills/commodities-list/) | Retrieve catalog of tradable commodities across energy, metals, and agriculture |
-| [commodities-quote](skills/commodities-quote/) | Get real-time commodity price quotes with day ranges and moving averages |
-| [forex-list](skills/forex-list/) | Retrieve listing of actively traded currency pairs (majors, crosses, exotics) |
+| Skill | Category | Description |
+|-------|----------|-------------|
+| [market-analyst-master](skills/market-analyst-master/) | **Master** | Comprehensive market analyst skill that orchestrates all stock skills for market analysis |
+| [stock-performance](skills/stock-performance/) | Price Data | Retrieve daily closing prices, trading volume, and historical price trends |
+| [stock-quote](skills/stock-quote/) | Price Data | Get real-time stock quotes with current price, volume, day range, 52-week range, and moving averages |
+| [batch-market-cap](skills/batch-market-cap/) | Market Cap | Retrieve market capitalization data for multiple companies at once |
+| [company-market-cap](skills/company-market-cap/) | Market Cap | Get market capitalization data for a single company with size classification |
+| [price-target-summary](skills/price-target-summary/) | Analyst Sentiment | Retrieve analysts' price target summary with trends across timeframes |
+| [price-target-consensus](skills/price-target-consensus/) | Analyst Sentiment | Get consensus, median, high, and low analyst price targets |
+| [stock-grades](skills/stock-grades/) | Analyst Sentiment | Get latest analyst ratings, upgrades, and downgrades from financial institutions |
+| [sector-pe-ratios](skills/sector-pe-ratios/) | Valuation | Retrieve sector P/E ratios by exchange for valuation benchmarking |
+| [industry-pe-ratios](skills/industry-pe-ratios/) | Valuation | Retrieve industry-specific P/E ratios for peer group comparisons |
+| [sector-performance-snapshot](skills/sector-performance-snapshot/) | Sector Analysis | Get sector-wide metrics including revenue, EBITDA, market cap, and enterprise value |
+| [industry-performance-snapshot](skills/industry-performance-snapshot/) | Sector Analysis | Get daily industry performance overview with average price changes |
+| [historical-market-cap](skills/historical-market-cap/) | Market Cap | Retrieve historical market capitalization data over date ranges |
+| [stock-historical-index](skills/stock-historical-index/) | Index Data | Retrieve historical end-of-day price data for market indices (S&P 500, NASDAQ, etc.) |
+| [stock-price-change](skills/stock-price-change/) | Price Data | Get price change statistics across multiple time periods (1D to 10Y) |
+| [commodities-list](skills/commodities-list/) | Commodities | Retrieve catalog of tradable commodities across energy, metals, and agriculture |
+| [commodities-quote](skills/commodities-quote/) | Commodities | Get real-time commodity price quotes with day ranges and moving averages |
+| [forex-list](skills/forex-list/) | Forex | Retrieve listing of actively traded currency pairs (majors, crosses, exotics) |
 
 ## Get Your Octagon API Key
 

@@ -1,0 +1,8 @@
+{
+  "name": "earnings-analyst-questions",
+  "description": "Identify key themes and concerns raised by analysts during earnings calls with analyst attribution and topic categorization.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "earnings", "analyst", "questions", "transcripts", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

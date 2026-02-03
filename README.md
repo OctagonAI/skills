@@ -73,6 +73,7 @@ Copy the skill folder to your Claude skills directory.
 | [earnings-mgmt-comments](skills/earnings-mgmt-comments/) | Management Commentary | Extract management's commentary on specific topics with executive attribution |
 | [earnings-qa-analysis](skills/earnings-qa-analysis/) | Q&A Analysis | Analyze the Q&A section for strategic insights and analyst concerns |
 | [earnings-financial-guidance](skills/earnings-financial-guidance/) | Financial Guidance | Extract financial guidance and forward-looking statements with segment detail |
+| [earnings-analyst-questions](skills/earnings-analyst-questions/) | Analyst Questions | Identify key themes and concerns raised by analysts with attribution |
 
 ## SEC Filings Analysis Skills
 

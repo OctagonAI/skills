@@ -1,0 +1,8 @@
+{
+  "name": "price-target-summary",
+  "description": "Retrieve analysts' price target summary for any stock using Octagon MCP. Evaluate analyst sentiment, upside/downside potential, and consensus expectations.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "price-target", "analyst", "consensus", "valuation", "sentiment", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -93,6 +93,7 @@ Copy the skill folder to your Claude skills directory.
 | [stock-quote](skills/stock-quote/) | Get real-time stock quotes with current price, volume, day range, 52-week range, and moving averages |
 | [batch-market-cap](skills/batch-market-cap/) | Retrieve market capitalization data for multiple companies at once |
 | [company-market-cap](skills/company-market-cap/) | Get market capitalization data for a single company with size classification |
+| [price-target-summary](skills/price-target-summary/) | Retrieve analysts' price target summary with trends across timeframes |
 
 ## Get Your Octagon API Key
 

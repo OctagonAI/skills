@@ -1,0 +1,8 @@
+{
+  "name": "industry-pe-ratios",
+  "description": "Retrieve industry-specific P/E ratios using Octagon MCP. Compare company valuations to specific industry peers and sub-sector benchmarks.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "pe-ratio", "industry", "valuation", "benchmark", "peers", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

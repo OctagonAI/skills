@@ -69,6 +69,7 @@ Copy the skill folder to your Claude skills directory.
 | Skill | Category | Description |
 |-------|----------|-------------|
 | [earnings-call-insights](skills/earnings-call-insights/) | Guidance Analysis | Analyze earnings call transcripts to extract future guidance, strategic priorities, and management commentary |
+| [earnings-call-analysis](skills/earnings-call-analysis/) | Transcript Analysis | Analyze earnings call transcripts with follow-up questions and source citations |
 
 ## SEC Filings Analysis Skills
 

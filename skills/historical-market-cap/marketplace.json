@@ -1,0 +1,8 @@
+{
+  "name": "historical-market-cap",
+  "description": "Retrieve historical market capitalization data for any stock using Octagon MCP. Track market cap changes, identify peaks and troughs, and analyze valuation trends.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "market-cap", "historical", "valuation", "trends", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

@@ -100,6 +100,7 @@ Copy the skill folder to your Claude skills directory.
 | [industry-pe-ratios](skills/industry-pe-ratios/) | Retrieve industry-specific P/E ratios for peer group comparisons |
 | [sector-performance-snapshot](skills/sector-performance-snapshot/) | Get sector-wide metrics including revenue, EBITDA, market cap, and enterprise value |
 | [industry-performance-snapshot](skills/industry-performance-snapshot/) | Get daily industry performance overview with average price changes |
+| [historical-market-cap](skills/historical-market-cap/) | Retrieve historical market capitalization data over date ranges |
 
 ## Get Your Octagon API Key
 

@@ -1,0 +1,8 @@
+{
+  "name": "commodities-quote",
+  "description": "Retrieve real-time commodity price quotes using Octagon MCP. Get current prices, day ranges, moving averages for gold, oil, natural gas, and more.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "commodities", "quote", "gold", "oil", "price", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

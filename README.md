@@ -127,6 +127,12 @@ Copy the skill folder to your Claude skills directory.
 | [commodities-quote](skills/commodities-quote/) | Commodities | Get real-time commodity price quotes with day ranges and moving averages |
 | [forex-list](skills/forex-list/) | Forex | Retrieve listing of actively traded currency pairs (majors, crosses, exotics) |
 
+## Prediction Markets Skills
+
+| Skill | Category | Description |
+|-------|----------|-------------|
+| [prediction-markets-analysis](skills/prediction-markets-analysis/) | Market Research | Generate deep research reports on Kalshi prediction market events with market vs. model probability comparison |
+
 ## Get Your Octagon API Key
 
 1. Sign up for a free account at [Octagon](https://app.octagonai.co/signup/?redirectToAfterSignup=https://app.octagonai.co/api-keys)

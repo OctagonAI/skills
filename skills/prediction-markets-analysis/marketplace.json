@@ -1,0 +1,8 @@
+{
+  "name": "prediction-markets-analysis",
+  "description": "Generate deep research reports on prediction market events with market vs. model probability comparison, price drivers, and mispricing identification across 120+ Kalshi markets.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "prediction-markets", "kalshi", "trading", "probability", "research", "mcp"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

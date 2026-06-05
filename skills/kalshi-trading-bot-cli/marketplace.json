@@ -1,0 +1,8 @@
+{
+  "name": "kalshi-trading-bot-cli",
+  "description": "Operate the Kalshi Trading Bot CLI for prediction-market research, edge discovery, basket construction, backtesting, portfolio monitoring, and guarded trade execution.",
+  "version": "1.0.0",
+  "author": "OctagonAI",
+  "tags": ["octagon", "kalshi", "prediction-markets", "trading", "cli", "risk-management", "automation"],
+  "repository": "https://github.com/OctagonAI/skills"
+}

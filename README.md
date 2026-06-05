@@ -132,6 +132,7 @@ Copy the skill folder to your Claude skills directory.
 | Skill | Category | Description |
 |-------|----------|-------------|
 | [prediction-markets-analysis](skills/prediction-markets-analysis/) | Market Research | Generate deep research reports on Kalshi prediction market events with market vs. model probability comparison |
+| [kalshi-trading-bot-cli](skills/kalshi-trading-bot-cli/) | Trading CLI | Operate the Kalshi Trading Bot CLI for market discovery, edge scans, baskets, backtests, monitoring, and guarded trade execution |
 
 ## Get Your Octagon API Key
 
